@@ -1,6 +1,5 @@
 
 function eat (food) {
-return food + 'tasted really good.';
-eat('bananas')
+return food +' tasted really good.';
 }
-
+console.log (eat('bananas'))
